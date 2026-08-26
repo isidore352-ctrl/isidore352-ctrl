@@ -2,16 +2,36 @@
 
 <div align="center">
 
-# Salut, je suis Isidore Zinsou <br>
+# Salut, je suis Isidore Zinsou
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+%7C+Full-Stack+Developer" alt="Développeur Web | Full-Stack Developer" />
+<br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isidore352-ctrl&label=Profile%20views&color=00FF7F&style=flat" alt="Profile views" />
+</p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+%7C+Full-Stack" alt="Développeur Web | Full-Stack" />
 
-[![Email](https://img.shields.io/badge/Email-isidore352%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:isidore352@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isidore%20Christi%20Zinsou-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/isidore-christi-zinsou-4562853b0)
-[![GitHub](https://img.shields.io/badge/GitHub-isidore352--ctrl-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/isidore352-ctrl)
+</div>
+<div>
 
+<div align="center">
+
+<a href="mailto:isidore352@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Gmail">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/isidore-christi-zinsou-4562853b0">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/isidore352-ctrl">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35" height="35" alt="GitHub">
+</a>
+
+</div>
 </div>
 
 ---
