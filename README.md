@@ -2,11 +2,13 @@
 
 #  Bonjour, je suis Isidore Christi Zinsou
 
-### 💻 Développeur Web | Full-Stack Developer
+<div align="center">
 
- Je transforme des idées en applications web modernes, fonctionnelles et intuitives.
+# 👋 Bonjour, je suis Isidore Christi Zinsou
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+%7C+Full-Stack+Developer" alt="Développeur Web | Full-Stack Developer" />
+
+
 
 [![Email](https://img.shields.io/badge/Email-isidore352%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:isidore352@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isidore%20Christi%20Zinsou-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/isidore-christi-zinsou-4562853b0)
