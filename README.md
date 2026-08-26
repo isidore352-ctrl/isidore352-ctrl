@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Isidore Christi Zinsou
+#  Bonjour, je suis Isidore Christi Zinsou
 
 ### 💻 Développeur Web | Full-Stack Developer
 
-🚀 Je transforme des idées en applications web modernes, fonctionnelles et intuitives.
+ Je transforme des idées en applications web modernes, fonctionnelles et intuitives.
 
 <br>
 
@@ -19,7 +19,6 @@
 ## 👨‍💻 À propos de moi
 
 Je suis un développeur web passionné par la création d'applications et de sites web modernes.
-
 J'aime transformer des idées en solutions numériques concrètes, en travaillant aussi bien sur l'interface utilisateur que sur la logique et les fonctionnalités d'une application.
 
 🎯 Mon objectif : continuer à développer mes compétences et participer à des projets web innovants.
