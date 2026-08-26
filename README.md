@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Bonjour, je suis Isidore Christi Zinsou <br>
+# Salut, je suis Isidore Zinsou <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+%7C+Full-Stack+Developer" alt="Développeur Web | Full-Stack Developer" />
 
