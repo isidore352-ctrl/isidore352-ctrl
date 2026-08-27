@@ -90,17 +90,6 @@ Création d'un portfolio professionnel permettant de présenter mon parcours, me
 
 ---
 
-## Mes statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=isidore352-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isidore352-ctrl&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
 
 ## Mon activité GitHub
 
