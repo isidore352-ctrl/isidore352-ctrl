@@ -13,39 +13,34 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+%7C+Full-Stack" alt="Développeur Web | Full-Stack" />
 
 </div>
-<div>
 
 <div align="center">
 
 <a href="mailto:isidore352@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Gmail">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail">
 </a>
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/isidore-christi-zinsou-4562853b0">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35" alt="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;
 <a href="https://github.com/isidore352-ctrl">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35" height="35" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub">
 </a>
 
 </div>
-</div>
+
 
 ---
-
-## 👨‍💻 À propos de moi
 
 Je suis un développeur web passionné par la création d'applications et de sites web modernes.
 J'aime transformer des idées en solutions numériques concrètes, en travaillant aussi bien sur l'interface utilisateur que sur la logique et les fonctionnalités d'une application.
 
-🎯 Mon objectif : continuer à développer mes compétences et participer à des projets web innovants.
+ Mon objectif : continuer à développer mes compétences et participer à des projets web innovants.
 
 ---
 
-## 🛠️ Technologies & outils
+## Technologies & outils
 
 ### Front-End
 
@@ -67,7 +62,7 @@ J'aime transformer des idées en solutions numériques concrètes, en travaillan
 
 ---
 
-## 🚀 Mes projets
+## Mes projets
 
 ### 🏨 Seguro Hotel
 
@@ -95,7 +90,7 @@ Création d'un portfolio professionnel permettant de présenter mon parcours, me
 
 ---
 
-## 📊 Mes statistiques GitHub
+## Mes statistiques GitHub
 
 <div align="center">
 
@@ -107,7 +102,7 @@ Création d'un portfolio professionnel permettant de présenter mon parcours, me
 
 ---
 
-## 🔥 Mon activité GitHub
+## Mon activité GitHub
 
 <div align="center">
 
@@ -117,7 +112,7 @@ Création d'un portfolio professionnel permettant de présenter mon parcours, me
 
 ---
 
-## 🏆 Trophées GitHub
+## Trophées GitHub
 
 <div align="center">
 
@@ -127,7 +122,7 @@ Création d'un portfolio professionnel permettant de présenter mon parcours, me
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
@@ -143,8 +138,8 @@ Création d'un portfolio professionnel permettant de présenter mon parcours, me
 
 <div align="center">
 
-### ⭐ Merci de visiter mon profil !
+### Merci de visiter mon profil !
 
-**Construisons quelque chose de génial ensemble 🚀**
+**Construisons quelque chose de génial ensemble **
 
 </div>
