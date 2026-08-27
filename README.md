@@ -112,15 +112,6 @@ Création d'un portfolio professionnel permettant de présenter mon parcours, me
 
 ---
 
-## Trophées GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=isidore352-ctrl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
 
 ## Me contacter
 
