@@ -16,17 +16,13 @@
 
 <div align="center">
 
-<a href="mailto:isidore352@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail">
-</a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/isidore-christi-zinsou-4562853b0">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="35"
+       height="35"
+       alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/isidore352-ctrl">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub">
-</a>
+
 
 </div>
 
